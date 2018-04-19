@@ -1,0 +1,12 @@
+body {
+	background-color: #DDD;
+}
+
+.txtContainer {
+	max-width: 66%;
+	margin-left: 50px;
+}
+
+img {
+	border: 3px solid black;
+}
