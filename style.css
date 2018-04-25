@@ -10,3 +10,28 @@ body {
 img {
 	border: 3px solid black;
 }
+
+#siteIcon {
+	width: 20px;
+}
+
+.navLink {
+	display: inline-block;
+	list-style: none;
+}
+
+#navName {
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+}
+a i {
+	width: 50px;
+	color: black;
+	transition: color .5s ease;
+}
+
+a i:hover {
+	color: #90FF00;
+}
